@@ -5,8 +5,8 @@
 
 I'm Data Science and Computing student, passoinate about technology. I like solving problems and learning new skills 📖. 
 
--- 🔭 I’m currently working on
-- 
+-- 🔭 I’m currently working on 
+-- Hello 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
