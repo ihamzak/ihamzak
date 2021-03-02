@@ -9,10 +9,11 @@ I'm Data Science and Computing student, passoinate about technology. I like solv
   - Developing an end to end machine learning pipeline on large scale dataset 
 - 🌱 I’m currently learning
   - Tensorflow
-  - ZEROMQ
+  - ZeroMQ
   - Apache Hadoop
   - Apache Spark
   - Apache Cassandra
+  - Distributed Computing 
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
